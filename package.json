@@ -14,7 +14,7 @@
     "adonis-preset-ts": "^2.1.0",
     "pino-pretty": "^9.0.1",
     "typescript": "~4.6",
-    "youch": "^3.2.0",
+    "youch": "^3.2.2",
     "youch-terminal": "^2.1.4"
   },
   "dependencies": {
